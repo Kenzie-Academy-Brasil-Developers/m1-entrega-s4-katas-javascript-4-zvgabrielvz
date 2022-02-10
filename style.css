@@ -1,1 +1,39 @@
-/* você pode estilizar se quiser !!! */
+body{
+    background-color:burlywood;
+    text-shadow: 1px 1px aliceblue;;
+}
+h1{
+    color: aliceblue;
+    text-shadow: 2px 2px black;
+}
+
+header{
+    text-align: center;
+}
+
+p{
+    font-weight: bold;
+    margin-bottom: 20px;
+    border: solid 1px;
+    min-width: 800px;
+    box-shadow: 0 0 1em blanchedalmond;
+
+}
+
+button{
+    width: 150px;
+    font-size: 20px;
+    color: burlywood;
+    background-color: cornsilk;
+    border-style: none;
+    box-shadow: 0 0 1em blanchedalmond;
+    border: solid 1px;
+
+}
+
+button:hover {
+    color: aliceblue;
+    background-color:burlywood ;
+    cursor: pointer;
+    
+}
